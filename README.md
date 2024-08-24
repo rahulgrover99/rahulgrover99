@@ -1,7 +1,7 @@
 ## Hey, I'm Rahul! <img src="https://rahulgrover99.github.io/images/hey.gif" width="32px">
 
-* 🔭  I’m currently contributing to [Crossplane](https://crossplane.io/) as LFX'21 Spring Mentee. 
-* 🌱  I’m currently learning **Distributed Systems** and **Golang**.
+* 🔭  I’m currently contributing to [Play Integrity API](https://developer.android.com/google/play/integrity) at Google.
+* 🌱  Learning to play **Distributed Systems**.
 * 👯  I’m looking to collaborate on open source projects.
 * 💬  Ping me about anything. Always happy to help! ✋
 * 📫  How to reach me: https://rahulgrover99.github.io/
